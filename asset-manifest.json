@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HashRouter/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/HashRouter/static/js/main.32352d38.chunk.js",
+    "main.js.map": "/HashRouter/static/js/main.32352d38.chunk.js.map",
+    "runtime-main.js": "/HashRouter/static/js/runtime-main.092cf5f2.js",
+    "runtime-main.js.map": "/HashRouter/static/js/runtime-main.092cf5f2.js.map",
+    "static/js/2.1e8dcd1b.chunk.js": "/HashRouter/static/js/2.1e8dcd1b.chunk.js",
+    "static/js/2.1e8dcd1b.chunk.js.map": "/HashRouter/static/js/2.1e8dcd1b.chunk.js.map",
+    "index.html": "/HashRouter/index.html",
+    "precache-manifest.957be98bfa9abcf4f024fbc730ec4b9b.js": "/HashRouter/precache-manifest.957be98bfa9abcf4f024fbc730ec4b9b.js",
+    "service-worker.js": "/HashRouter/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/HashRouter/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1e8dcd1b.chunk.js.LICENSE.txt": "/HashRouter/static/js/2.1e8dcd1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.092cf5f2.js",
+    "static/js/2.1e8dcd1b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.32352d38.chunk.js"
+  ]
+}
